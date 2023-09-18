@@ -1,8 +1,6 @@
 # 反向面试
 
-> 大部分翻译自：https://github.com/viraptor/reverse-interview ，亦有其他网友补充。
-
-> 译者总结的一份适合突击记忆的简洁版 LeetCode 题解和面试问题，也欢迎 Star。https://github.com/yifeikong/interview
+> 本文由 [反向面试](https://github.com/yifeikong/reverse-interview-zh) 改编。
 
 下面列表里的问题对于参加技术面试的人来说可能有些用。
 列表里的问题并不一定适用于某个特定的职位或者工作类型，也没有排序
@@ -13,10 +11,6 @@
 
 翻译：
 
-[English](https://github.com/viraptor/reverse-interview)
-[Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-[Portuguese](https://github.com/viraptor/reverse-interview/blob/master/translations/PORTUGUESE.md)
-[繁體中文](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
 ## 预期使用方式
 
 - 检查一下哪些问题你感兴趣
